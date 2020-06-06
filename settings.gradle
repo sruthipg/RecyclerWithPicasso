@@ -1,0 +1,2 @@
+rootProject.name='AccubitsApp'
+include ':app'
